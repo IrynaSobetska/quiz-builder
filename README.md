@@ -4,20 +4,6 @@ Full-stack Quiz Builder application built with Express, TypeScript, PostgreSQL, 
 
 Users can create quizzes with Boolean, Input, and Checkbox questions, view all quizzes, open quiz details, and delete quizzes.
 
-## Project Structure
-
-```text
-quiz-builder/
-|-- backend/
-|   |-- prisma/
-|   `-- src/
-|-- frontend/
-|   |-- pages/
-|   |-- components/
-|   `-- services/
-`-- README.md
-```
-
 ## Backend Setup
 
 1. Open the backend folder:
